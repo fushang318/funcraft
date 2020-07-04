@@ -125,6 +125,7 @@
     "promise.prototype.finally": "^3.1.1",
     "raw-body": "^2.3.3",
     "readdirp": "^3.1.2",
+    "request": "^2.88.2",
     "request-promise": "^4.2.5",
     "require-from-string": "^2.0.2",
     "rimraf": "^2.6.2",
